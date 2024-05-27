@@ -90,17 +90,17 @@ Techs that I've used at least once
     <td> Spring Boot, Spring Security, JPA, Querydsl, Kafka, Kafka streams, Hadoop, Spark, MySQL, MongoDB, Redis, STOMP, FastAPI </td>
   </tr>
   <tr>
-    <td><a href="">수확행</a></td>
+    <td><a href="https://github.com/Ahrang777/suhwakhaeng">수확행</a></td>
     <td> AI를 이용한 농민들을 위한 작물 관리 어플 (2024) </td>
     <td> Spring Boot, Spring Cloud </td>
   </tr>
   <tr>
-    <td><a href="">PlanCard</a></td>
+    <td><a href="https://github.com/Ahrang777/PlanCard">PlanCard</a></td>
     <td> 화상회의 시스템에 음성인식 기능을 활용한 실시간 여행 계획 서비스 </td>
     <td> Spring Boot </td>
   </tr>
   <tr>
-    <td><a href="">TripBee</a></td>
+    <td><a href="https://github.com/Ahrang777/TripBee_Server">TripBee</a></td>
     <td> 여행 플래너 </td>
     <td> Spring Boot </td>
   </tr>
