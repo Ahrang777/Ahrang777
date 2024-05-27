@@ -1,4 +1,4 @@
-![image](https://github.com/Ahrang777/Ahrang777/assets/59478159/f909801f-5040-4c42-920f-0ce160b484ef)![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jungin-Park%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=7EA1FF&text=JungIn Park%20Kim&section=header&reversal=false&textBg=false&fontColor=27374D&fontSize=76&fontAlign=51)
 
 
 
@@ -21,7 +21,12 @@ Techs that I've used at least once
 
 ### Backend
 <div style="display: flex; gap: 10px">
-
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
 
 ### Frontend
@@ -33,11 +38,11 @@ Techs that I've used at least once
 </div>
 
 
-### CI/CD
+### Infra
 <div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=JENKINS&logoColor=white">
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white">
-<img src="https://img.shields.io/badge/FASTLANE-00F200?style=for-the-badge&logo=FASTLANE&logoColor=white">
+<img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 </div>
 
 ### Version Control
@@ -50,6 +55,7 @@ Techs that I've used at least once
 <div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white">
+<img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
@@ -101,7 +107,3 @@ Techs that I've used at least once
 
 
 
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&section=footer)
