@@ -16,7 +16,7 @@
 
 
 ## Award 🏅
-- (2024.05) SSAFY 우수 프로젝트 <br>
+- (2024.05) SSAFY 우수 프로젝트(NowDoBoss)<br>
 
 
   <br>  
