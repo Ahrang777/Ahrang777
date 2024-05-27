@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=7EA1FF&text=JungIn Park%20Kim&section=header&reversal=false&textBg=false&fontColor=27374D&fontSize=76&fontAlign=51)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=7EA1FF&text=Jungin%20Park&section=header&reversal=false&textBg=false&fontColor=27374D&fontSize=76&fontAlign=51)
 
 
 
