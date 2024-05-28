@@ -105,7 +105,7 @@ Techs that I've used at least once
     <td> Spring Boot </td>
   </tr>
   <tr>
-    <td><a href="">Hobbyt</a></td>
+    <td><a href="https://github.com/Ahrang777/Hobbyt">Hobbyt</a></td>
     <td> 취미 공유 및 취미로 만든 공예품 거래 서비스 </td>
     <td> Spring Boot </td>
   </tr>
