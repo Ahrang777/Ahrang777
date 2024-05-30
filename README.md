@@ -85,7 +85,7 @@ Techs that I've used at least once
     <th>Skills</th>
   </tr>
   <tr>
-    <td><a href="">NowDoBoss</a></td>
+    <td><a href="https://github.com/8llow8llowMe/NowDoBoss">NowDoBoss</a></td>
     <td> 빅데이터 기반 상권분석 및 창업 지원 서비스 플랫폼 (2024) </td>
     <td> Spring Boot, Spring Security, JPA, Querydsl, Kafka, Kafka streams, Hadoop, Spark, MySQL, MongoDB, Redis, STOMP, FastAPI </td>
   </tr>
