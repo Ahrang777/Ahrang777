@@ -92,17 +92,17 @@ Techs that I've used at least once
   <tr>
     <td><a href="https://github.com/Ahrang777/suhwakhaeng">수확행</a></td>
     <td> AI를 이용한 농민들을 위한 작물 관리 어플 (2024) </td>
-    <td> Spring Boot, Spring Cloud </td>
+    <td> Spring Boot, Spring Cloud, JPA, Querydsl, MySQL, Scheduler, Selenium, MongoDB, RabbitMQ, STOMP, FCM, docker, docker compose, ResNet 101 </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Ahrang777/PlanCard">PlanCard</a></td>
     <td> 화상회의 시스템에 음성인식 기능을 활용한 실시간 여행 계획 서비스 </td>
-    <td> Spring Boot </td>
+    <td> Spring Boot, Spring security, JPA, Querydsl, OpenVidu, WebSocket, MySQL, docker, docker compose, Jenkins, Redis, MongoDB, RabbitMQ, Streaming STT, STOMP, YJS </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Ahrang777/TripBee_Server">TripBee</a></td>
     <td> 여행 플래너 </td>
-    <td> Spring Boot </td>
+    <td> Spring Boot, Spring security, Redis, MySQL, MyBatis, Vue.js </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Ahrang777/Hobbyt">Hobbyt</a></td>
